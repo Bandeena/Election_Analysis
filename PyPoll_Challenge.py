@@ -86,7 +86,14 @@ with open(file_to_load) as election_data:
 with open(file_to_save, "w") as txt_file:
 
     # Print the final vote count (to terminal)
-    print(f"-------------------------\n"
+    print(f"Election Results\n"
+    f"-------------------------\n"
+    f"Total Votes: {total_votes:,}\n"
+    f"-------------------------\n")
+
+    # Print the final vote count (to text file)
+    txt_file.write(f"Election Results\n"
+    f"-------------------------\n"
     f"Total Votes: {total_votes:,}\n"
     f"-------------------------\n")
 
