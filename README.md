@@ -4,11 +4,11 @@ The purpose of this Election Audit Analysis is to more closely examine the voter
 
 ### Election-Audit Results
 ![Election Results Summary](analysis/printout.png)
-1. How many votes were cast in this congressional election?
+1. How many votes were cast in this congressional election?\
 A total of 369,711 votes were cast in this election.
-2. Which county had the largest number of votes?
+2. Which county had the largest number of votes?\
 Denver had the most votes, with 82.8% of the total votes cast.
-3. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+3. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?\
 Diana Degette won the election with 73.8% of the votes (272,892 total).
 
 ### Election-Audit Summary
